@@ -1,0 +1,101 @@
+[
+  { "id": 1, "employeeName": "John Doe", "type": "Casual Leave", "from": "2024-07-10", "to": "2024-07-12", "reason": "Personal work", "status": "Pending" },
+  { "id": 2, "employeeName": "Jane Smith", "type": "Sick Leave", "from": "2024-07-05", "to": "2024-07-06", "reason": "Fever", "status": "Approved" },
+  { "id": 3, "employeeName": "Bob Johnson", "type": "Annual Leave", "from": "2024-08-01", "to": "2024-08-07", "reason": "Vacation", "status": "Pending" },
+  { "id": 4, "employeeName": "Charlie Wilson", "type": "Casual Leave", "from": "2024-07-20", "to": "2024-07-20", "reason": "Family event", "status": "Rejected" },
+  { "id": 5, "employeeName": "David Lee", "type": "Sick Leave", "from": "2024-07-15", "to": "2024-07-16", "reason": "Cold and flu", "status": "Approved" },
+  { "id": 6, "employeeName": "Emma Davis", "type": "Annual Leave", "from": "2024-08-10", "to": "2024-08-15", "reason": "Family vacation", "status": "Pending" },
+  { "id": 7, "employeeName": "Frank Miller", "type": "Casual Leave", "from": "2024-07-25", "to": "2024-07-26", "reason": "Personal work", "status": "Approved" },
+  { "id": 8, "employeeName": "Grace Taylor", "type": "Sick Leave", "from": "2024-07-30", "to": "2024-07-31", "reason": "Migraine", "status": "Rejected" },
+  { "id": 9, "employeeName": "Hannah Anderson", "type": "Annual Leave", "from": "2024-09-01", "to": "2024-09-05", "reason": "Traveling abroad", "status": "Pending" },
+  {
+    "id": 21,
+    "employeeName": "Alexander King",
+    "type": "Casual Leave",
+    "from": "2024-08-25",
+    "to": "2024-08-26",
+    "reason": "Personal errands",
+    "status": "Pending"
+  },
+  {
+    "id": 22,
+    "employeeName": "Mila Rodriguez",
+    "type": "Sick Leave",
+    "from": "2024-09-12",
+    "to": "2024-09-13",
+    "reason": "Stomach bug",
+    "status": "Approved"
+  },
+  {
+    "id": 23,
+    "employeeName": "Lucas Perez",
+    "type": "Annual Leave",
+    "from": "2024-11-01",
+    "to": "2024-11-07",
+    "reason": "Thanksgiving break",
+    "status": "Approved"
+  },
+  {
+    "id": 24,
+    "employeeName": "Harper Sanchez",
+    "type": "Work From Home",
+    "from": "2024-08-28",
+    "to": "2024-08-28",
+    "reason": "Doctor appointment",
+    "status": "Rejected"
+  },
+  {
+    "id": 25,
+    "employeeName": "Evelyn Foster",
+    "type": "Emergency Leave",
+    "from": "2024-09-15",
+    "to": "2024-09-16",
+    "reason": "Urgent family matter",
+    "status": "Pending"
+  },
+  {
+    "id": 26,
+    "employeeName": "Mason Cox",
+    "type": "Casual Leave",
+    "from": "2024-10-10",
+    "to": "2024-10-11",
+    "reason": "House hunting",
+    "status": "Approved"
+  },
+  {
+    "id": 27,
+    "employeeName": "Abigail Reed",
+    "type": "Sick Leave",
+    "from": "2024-09-20",
+    "to": "2024-09-21",
+    "reason": "Allergy reaction",
+    "status": "Approved"
+  },
+  {
+    "id": 28,
+    "employeeName": "Logan Bell",
+    "type": "Annual Leave",
+    "from": "2024-12-01",
+    "to": "2024-12-05",
+    "reason": "Skiing trip",
+    "status": "Pending"
+  },
+  {
+    "id": 29,
+    "employeeName": "Ella Murphy",
+    "type": "Maternity Leave",
+    "from": "2024-10-15",
+    "to": "2025-01-15",
+    "reason": "Maternity leave",
+    "status": "Approved"
+  },
+  {
+    "id": 30,
+    "employeeName": "Henry Rivera",
+    "type": "Work From Home",
+    "from": "2024-09-25",
+    "to": "2024-09-26",
+    "reason": "Home delivery",
+    "status": "Approved"
+  }
+]
